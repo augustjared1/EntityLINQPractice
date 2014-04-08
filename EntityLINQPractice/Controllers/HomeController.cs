@@ -10,6 +10,7 @@ namespace EntityLINQPractice.Controllers
     {
         public ActionResult Index()
         {
+            //Hey there Jared
             return View();
         }
 
