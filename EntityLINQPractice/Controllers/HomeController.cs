@@ -11,6 +11,7 @@ namespace EntityLINQPractice.Controllers
         public ActionResult Index()
         {
             //Hey there Jared
+            //Sup Homeslice
             return View();
         }
 
